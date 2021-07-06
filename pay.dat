@@ -1,0 +1,151 @@
+Hello, and welcome to the Employee Data Displayer.
+
+Please select what type of employee you are: 
+1: Salary Employee
+2: Hourly Employee
+3: Agency Employee
+Selection: 1
+You have selected "Salary Employee".
+Please enter your first name: 
+User Entered: Wasim
+--------------------------------------------
+Please enter your last name: 
+User Entered: Algamal
+--------------------------------------------
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: 123456789
+--------------------------------------------
+Please enter your employee number.
+(Three numbers and a letter at the end): 
+User Entered: 123L
+--------------------------------------------
+Enter your annual pay: 
+User Entered: 54000
+--------------------------------------------
+1 = 25%
+2 = 20%
+3 = 15%
+Enter your tax code: 
+User Entered: 2
+--------------------------------------------
+Results:
+First Name: Wasim
+Last Name: Algamal
+Social Security: XXX-XX-6789
+Employee Number: 123-L
+Annual Pay: $54000.00
+Weekly Pay: $1038.46
+Tax Code: 2
+--------------------------------------------
+Please select what type of employee you are: 
+1: Salary Employee
+2: Hourly Employee
+3: Agency Employee
+Selection: 2
+You have selected "Hourly Employee".
+Please enter your first name: 
+User Entered: Tom
+--------------------------------------------
+Please enter your last name: 
+User Entered: Tim
+--------------------------------------------
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: 9876543211
+Sorry, you have entered an invalid Social Security Number. Try again.
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: 987654321a
+Sorry, you have entered an invalid Social Security Number. Try again.
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: aa
+Sorry, you have entered an invalid Social Security Number. Try again.
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: 123456987
+--------------------------------------------
+Please enter your employee number.
+(Three numbers and a letter at the end): 
+User Entered: aaa5
+Sorry, you have entered an invalid Employee Number. Try again.
+Please enter your employee number.
+(Three numbers and a letter at the end): 
+User Entered: 1234a
+Sorry, you have entered an invalid Employee Number. Try again.
+Please enter your employee number.
+(Three numbers and a letter at the end): 
+User Entered: 164r
+--------------------------------------------
+Please enter your hourly pay rate: 
+User Entered: 100.00
+You have entered an invalid rate. Try again.
+Please enter your hourly pay rate: 
+User Entered: 15.96
+--------------------------------------------
+Please enter your number of hours worked: 
+User Entered: 500
+You have entered an invalid number. Try again.
+Please enter your number of hours worked: 
+User Entered: 50
+--------------------------------------------
+1 = 25%
+2 = 20%
+3 = 15%
+Enter your tax code: 
+User Entered: 1
+--------------------------------------------
+Are you working full time or part time?
+Enter 'F' for full time, or anything else for part time: 
+User entered: f
+--------------------------------------------
+Results:
+First Name: Tom
+Last Name: Tim
+Social Security: XXX-XX-6987
+Employee Number: 164-R
+Hourly Pay Rate: 15.96
+Hours Worked: 50
+Overtime Pay Rate: 23.94
+Tax Code: 1
+Work Status: Full Time
+--------------------------------------------
+Please select what type of employee you are: 
+1: Salary Employee
+2: Hourly Employee
+3: Agency Employee
+Selection: 3
+You have selected "Agency Employee".
+Please enter your first name: 
+User Entered: Lady
+--------------------------------------------
+Please enter your last name: 
+User Entered: Man
+--------------------------------------------
+Please enter your social security number.
+(Please ONLY include numbers; no dashes): 
+User Entered: 654789312
+--------------------------------------------
+Please enter your employee number.
+(Three numbers and a letter at the end): 
+User Entered: 564k
+--------------------------------------------
+Please enter your hourly pay rate: 
+User Entered: 11.00
+--------------------------------------------
+Please enter your number of hours worked: 
+User Entered: 13
+--------------------------------------------
+Please enter your company name: 
+User entered: ComapnyName Inc.
+--------------------------------------------
+Results:
+First Name: Lady
+Last Name: Man
+Social Security: XXX-XX-9312
+Employee Number: 564-K
+Hourly Pay Rate: 11.00
+Hours Worked: 13
+Company Name: ComapnyName Inc.
+--------------------------------------------
